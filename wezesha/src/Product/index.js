@@ -13,9 +13,9 @@ const Product = () =>{
                     productivity, deliveries, and sales transactions.
                 </p>
             </div>
-            <div id= 'wezesha-mobileapp'>
+            <div id='wezesha-mobileapp'>
                 <div>
-                    <img id= "mobilepic" src ={mobileapp} alt= "mobileapp-photo"/>
+                    <img id="mobilepic" src ={mobileapp} alt= "mobileapp-photo"/>
                 </div>
                 <div className='about-mobileapp'>
                     <h1>Wezesha Mobile App</h1>
